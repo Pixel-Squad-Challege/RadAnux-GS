@@ -79,7 +79,7 @@ body {
 
 /* Banner Acadêmico de Conexão */
 .academic-banner {
-    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    background: linear-gradient(90deg, var(--primary-color), var(--bg-card));
     color: var(--bg-dark);
     font-size: 0.8rem;
     font-weight: 700;
